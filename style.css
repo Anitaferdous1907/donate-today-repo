@@ -92,7 +92,7 @@ body {
 
 
 
-#Four-BOX1 {
+#Five-BOX1 {
 
     color: #000000;
     background-color: #FAFAFA;
@@ -104,7 +104,7 @@ body {
     justify-content: center;
 }
 
-#Four-BOX2 {
+#Five-BOX2 {
 
     color: #FF5959;
     background-color: #FFEEEE;
@@ -117,7 +117,7 @@ body {
 }
 
 
-#Four-BOX3 {
+#Five-BOX3 {
 
     color: #000000;
     background-color: #FAFAFA;
@@ -131,7 +131,7 @@ body {
 
 
 
-#Four-BOX4 {
+#Five-BOX4 {
 
     color: #000000;
     background-color: #FAFAFA;
@@ -143,7 +143,7 @@ body {
     border-radius: 5px
 }
 
-#Four-BOX5 {
+#Five-BOX5 {
 
     color: #000000;
     background-color: #FAFAFA;
@@ -158,4 +158,48 @@ body {
 #amount {
     text-align: center;
     color: #B3B3B3;
+}
+
+.container1 {
+    display: flex;
+    margin: 5%;
+    padding-left: 25px;
+    text-align: left;
+    justify-content: left;
+
+}
+
+#three-BOX1 {
+    color: #000000;
+    background-color: rgba(79, 157, 166, 0.1);
+    width: 360px;
+    height: 352PX;
+    text-align: left;
+    float: right;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+#three-BOX2 {
+    color: #000000;
+    background-color: rgba(255, 89, 89, 0.1);
+    width: 360px;
+    height: 352PX;
+    text-align: left;
+    float: right;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#three-BOX3 {
+    color: #000000;
+    background-color: #FFF4D6;
+    width: 360px;
+    height: 352PX;
+    text-align: left;
+    float: right;
+    margin: 10px;
+    border-radius: 5px;
+
 }
