@@ -84,8 +84,9 @@ body {
 .container {
     display: flex;
     margin: 2%;
-    padding-left: 300px;
+    padding-left: 25px;
     text-align: center;
+    justify-content: center;
 
 }
 
@@ -97,10 +98,10 @@ body {
     background-color: #FAFAFA;
     width: 120px;
     height: 100PX;
-    text-align: center;
     float: right;
     margin: 10px;
-    border-radius: 5px
+    border-radius: 5px;
+    justify-content: center;
 }
 
 #Four-BOX2 {
@@ -152,4 +153,9 @@ body {
     float: right;
     margin: 10px;
     border-radius: 5px;
+}
+
+#amount {
+    text-align: center;
+    color: #B3B3B3;
 }
