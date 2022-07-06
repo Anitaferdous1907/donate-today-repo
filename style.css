@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background-image {
+
+
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    background-repeat: none;
+    background-position: 50% 50%;
+    height: 100vh;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+    color: white;
+    text-align: center;
+}
+
+.overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(19, 18, 18, 0.65);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.overlay h1 {
+    font-size: 65px;
+    letter-spacing: 0px;
+    margin: 0 0 5px;
+}
