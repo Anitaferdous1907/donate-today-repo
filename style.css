@@ -40,3 +40,116 @@ body {
     letter-spacing: 0px;
     margin: 0 0 5px;
 }
+
+.overlay p {
+    font-size: 12px;
+
+}
+
+.Donate-button {
+    text-decoration: none;
+    background: #FF5959;
+    font-weight: 700;
+    color: white;
+    margin-top: 2%;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+
+.Donate-Today {
+    padding-top: 5%;
+    color: rgb(17, 17, 17);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.Donate-Today h1 {
+
+    font-weight: bolder;
+    font-size: 30px;
+    letter-spacing: 0px;
+    margin: 0 0 5px;
+
+}
+
+.Donate-Today p {
+    font-size: 12px;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin: 2%;
+    padding-left: 290px;
+
+}
+
+
+
+#Four-BOX1 {
+
+    color: #000000;
+    background-color: #FAFAFA;
+    width: 120px;
+    height: 100PX;
+    text-align: center;
+    float: right;
+    margin: 10px;
+    border-radius: 5px
+}
+
+#Four-BOX2 {
+
+    color: #FF5959;
+    background-color: #FFEEEE;
+    width: 120px;
+    height: 100PX;
+    text-align: center;
+    float: right;
+    margin: 10px;
+    border-radius: 5px
+}
+
+
+#Four-BOX3 {
+
+    color: #000000;
+    background-color: #FAFAFA;
+    width: 120px;
+    height: 100PX;
+    text-align: center;
+    float: right;
+    margin: 10px;
+    border-radius: 5px
+}
+
+
+
+#Four-BOX4 {
+
+    color: #000000;
+    background-color: #FAFAFA;
+    width: 120px;
+    height: 100PX;
+    text-align: center;
+    float: right;
+    margin: 10px;
+    border-radius: 5px
+}
+
+#Four-BOX5 {
+
+    color: #000000;
+    background-color: #FAFAFA;
+    width: 120px;
+    height: 100PX;
+    text-align: center;
+    float: right;
+    margin: 10px;
+    border-radius: 5px;
+}
